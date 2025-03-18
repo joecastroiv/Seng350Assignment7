@@ -1,0 +1,29 @@
+Encrypted message:
+Kdlolh/#L#nqrz#|rx#plvv#|rxu#prp/#dqg#L#nqrz#|rx#plvv#|rxu#gdgZkhq#L*p#jrqh/#exw#L*p#wu|lq*#wr#jlyh#|rx#wkh#olih#wkdw#L#qhyhu#kdgL#fdq#vhh#|rx*uh#vdg/#hyhq#zkhq#|rx#vploh/#hyhq#zkhq#|rx#odxjkL#fdq#vhh#lw#lq#|rxu#h|hv/#ghhs#lqvlgh#|rx#zdqqd#fu|*Fdxvh#|rx*uh#vfduhg/#L#dlq*w#wkhuh/#Gdgg|*v#zlw*#|rx#lq#|rxu#sud|huv
+
+Decrypted message:
+Hailie, I know you miss your mom, and I know you miss your dad
+When I'm gone, but I'm tryin' to give you the life that I never had
+I can see you're sad, even when you smile, even when you laugh
+I can see it in your eyes, deep inside you wanna cry
+'Cause you're scared, I ain't there, Daddy's wit' you in your prayers
+
+
+Total words in the file: 66
+
+Average time to encrypt: 0.008 ms (7758 ns)
+Average time to decrypt: 0.007 ms (7394 ns)
+Encryption and decryption were successful.
+
+Original Message:
+Hailie, I know you miss your mom, and I know you miss your dad
+When I'm gone, but I'm tryin' to give you the life that I never had
+I can see you're sad, even when you smile, even when you laugh
+I can see it in your eyes, deep inside you wanna cry
+'Cause you're scared, I ain't there, Daddy's wit' you in your prayers
+
+
+Encrypted Message:
+Kdlolh/#L#nqrz#|rx#plvv#|rxu#prp/#dqg#L#nqrz#|rx#plvv#|rxu#gdgZkhq#L*p#jrqh/#exw#L*p#wu|lq*#wr#jlyh#|rx#wkh#olih#wkdw#L#qhyhu#kdgL#fdq#vhh#|rx*uh#vdg/#hyhq#zkhq#|rx#vploh/#hyhq#zkhq#|rx#odxjkL#fdq#vhh#lw#lq#|rxu#h|hv/#ghhs#lqvlgh#|rx#zdqqd#fu|*Fdxvh#|rx*uh#vfduhg/#L#dlq*w#wkhuh/#Gdgg|*v#zlw*#|rx#lq#|rxu#sud|huv
+
+Average time to break the cipher: 0.021 ms
